@@ -1,1 +1,1 @@
-[baidu](www.baidu.com)
+[baidu](http://www.baidu.com)
