@@ -8,4 +8,5 @@ BugReport
     4.footer的版权声明[EMC®电磁兼容技术支持 网络子系统](http://www.emc.com/ “无用的footer”)需将注册商标及链接去掉；
     5.登录系统后左侧导航栏plone图标应替换为平台logo(if available)；
     6.网站设置界面版本概览信息应去掉，优化筛选plone原有网站设置，有选择的进行显示；
+    7....(testing)
     
