@@ -79,8 +79,7 @@ emc project test doc
 6. 知识库
 ------------
 ###知识库专家系统（问答系统 灵感来自[ stackoverflow](http://stackoverflow.com/),有点像知乎）
-![](https://github.com/adam18975257327/emc/blob/master/images/enckb.png) 
-
+![](https://github.com/adam18975257327/emc/blob/master/images/enckb.png)
     系统由根文件夹，问题文件夹，话题文件夹，问题，答案，话题 这些类构成。问题文件夹物理组织问题，话题逻辑组织问题。
     站点成员可创建问题、话题，回答问题；问题和话题可以被关注；答案可以被投票（点赞），被收藏；
     根据旗下的问题答案的有效投票来给问题、话题评分，排名靠前的进入热点问题、热点话题队列。
